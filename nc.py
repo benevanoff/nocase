@@ -15,7 +15,7 @@ def ncLower(string):
 		elif i = "E":
 			ncList[i] = "e"
 		elif i = "F":
-			ncList[i] = "F"
+			ncList[i] = "f"
 		elif i = "G":
 			ncList[i] = "g"
 		elif i = "H":
