@@ -59,3 +59,65 @@ def ncLower(string):
 		else:
 			continue
 	string = str(''.join(string))
+	
+#convert to all upper case
+def ncUpper(string):
+	ncList = []
+	for char in string:
+		ncList.append(char)
+	for i in ncList:
+		if i = "a":
+			ncList[i] = "A"
+		elif i = "b":
+			ncList[i] = "B"
+		elif i = "c":
+			ncList[i] = "C"
+		elif i = "d":
+			ncList[i] = "D"
+		elif i = "e":
+			ncList[i] = "E"
+		elif i = "f":
+			ncList[i] = "F"
+		elif i = "g":
+			ncList[i] = "G"
+		elif i = "h":
+			ncList[i] = "H"
+		elif i = "i":
+			ncList[i] = "I"
+		elif i = "j":
+			ncList[i] = "J"
+		elif i = "k":
+			ncList[i] = "K"
+		elif i = "l":
+			ncList[i] = "L"
+		elif i = "m":
+			ncList[i] = "M"
+		elif i = "n":
+			ncList[i] = "N"
+		elif i = "o":
+			ncList[i] = "O"
+		elif i = "p":
+			ncList[i] = "P"
+		elif i = "q":
+			ncList[i] = "Q"
+		elif i = "r":
+			ncList[i] = "R"
+		elif i = "s":
+			ncList[i] = "S"
+		elif i = "t":
+			ncList[i] = "T"
+		elif i = "u":
+			ncList[i] = "U"
+		elif i = "v":
+			ncList[i] = "V"
+		elif i = "w":
+			ncList[i] = "W"
+		elif i = "x":
+			ncList[i] = "X"
+		elif i = "y":
+			ncList[i] = "Y"
+		elif i = "z":
+			ncList[i] = "Z"
+		else:
+			continue
+	string = str(''.join(string))
